@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project develops a machine learning model to classify SMS messages as either **spam** or **ham (legitimate)** using Natural Language Processing (NLP). The dataset undergoes preprocessing, feature extraction using Term Frequency–Inverse Document Frequency (TF-IDF), and classification using supervised learning algorithms.
+This project develops a machine learning model to classify Email messages as either **spam** or **ham (legitimate)** using Natural Language Processing (NLP). The dataset undergoes preprocessing, feature extraction using Term Frequency–Inverse Document Frequency (TF-IDF), and classification using supervised learning algorithms.
 
 ## Objectives
 
